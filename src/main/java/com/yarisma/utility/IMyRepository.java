@@ -1,2 +1,4 @@
-package com.yarisma.utility;public interface IMyRepository {
+package com.yarisma.utility;
+
+public interface IMyRepository<T,ID> {
 }
